@@ -8,7 +8,7 @@ Photon PUN2와 유니티를 활용하여 처음으로 만들어본 게임입니�
 -----
 
 My First Multiplayer game using Photon PUN2 and Unity.
-I basically copied off [Gorani's video](https://youtu.be/9Bn1C9O0hzY),
+I basically learned with [Gorani's video](https://youtu.be/9Bn1C9O0hzY),
 and I might be interested in updating future versions of my own.
 I'm quite into it 😏
 
