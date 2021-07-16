@@ -1,16 +1,10 @@
 # PUN_2D_Shooter
  
 Photon PUN2와 유니티를 활용하여 처음으로 만들어본 게임입니다.
-[고라니님의 영상](https://youtu.be/9Bn1C9O0hzY) 을 따라하여 그대로 내놓은 버젼으로,
 추후 마음이 내킨다면 업데이트도 해볼 예정입니다.
 솔직히 재밌을듯 ㅎ
 
------
-
 My First Multiplayer game using Photon PUN2 and Unity.
-I basically learned with [Gorani's video](https://youtu.be/9Bn1C9O0hzY),
-and I might be interested in updating future versions of my own.
-I'm quite into it 😏
 
 -----
 
