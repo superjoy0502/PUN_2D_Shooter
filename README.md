@@ -9,6 +9,9 @@ My First Multiplayer game using Photon PUN2 and Unity.
 -----
 
 ## 조작법
+### v2.0.0
+- 커스텀 조작키 설정 가능
+
 ### v1.0.0
 - A, D 또는 ←, →를 이용하여 좌우로 이동
 - ↑를 이용하여 위로 점프
